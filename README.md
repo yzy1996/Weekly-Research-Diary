@@ -8,4 +8,4 @@ My weekly research diary, see progress every week. You can click every week (blu
 </div>
 
 
-## [Week 1](./week1.pdf)
+## [Week 1](./report/week1.pdf)
