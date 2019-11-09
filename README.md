@@ -9,3 +9,7 @@ My weekly research diary, see progress every week. You can click every week (blu
 
 
 ## [Week 1](./report/week1.pdf)
+Key Words: 
+
+## [Week 2](./report/week2.pdf)
+Key Words: survey, real-time strategy, StarCraft
