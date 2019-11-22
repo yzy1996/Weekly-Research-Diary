@@ -36,4 +36,4 @@ Key Words: survey, real-time strategy, StarCraft
 
 ## [Week 3](./report/week3.pdf)
 
-Key Words: Mario, GAN, Generate game maps
+Key Words: Mario, GAN, Generate game levels
