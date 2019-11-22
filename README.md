@@ -29,8 +29,10 @@ I think a good paper have these factors:
 
 3、We should not repeat the wheel, if someone else has already organized made it public, we can use it directly or improve it.
 
-
 ## [Week 1](./report/week1.pdf)
+
+Key Words: StarCraft map, Development of evolutionary computation with game 
+
 ## [Week 2](./report/week2.pdf)
 Key Words: survey, real-time strategy, StarCraft
 
