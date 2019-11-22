@@ -7,9 +7,33 @@ My weekly research diary, see progress every week. Click every week (blue) to se
 
 </div>
 
+Some of my research tips, continually updated…
+
+### How to judge a paper worth reading?
+
+I think a good paper have these factors:
+
+1、won the best paper on a conference or workshop
+
+2、highly cited papers
+
+3、reported by some media or be concerned
+
+4、follow well-known teams in the field
+
+### What should we do when doing research?
+
+1、The best way to understand an academic field is to figure out its development
+
+2、Using some efficient software or tools to help you. Using Mendeley or others as an reference management, using Onedrive or others to save data in the cloud, using Github to store code and manage versions…
+
+3、We should not repeat the wheel, if someone else has already organized made it public, we can use it directly or improve it.
+
 
 ## [Week 1](./report/week1.pdf)
-Key Words: 
-
 ## [Week 2](./report/week2.pdf)
 Key Words: survey, real-time strategy, StarCraft
+
+## [Week 3](./report/week3.pdf)
+
+Key Words: Mario, GAN, Generate game maps
