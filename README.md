@@ -29,6 +29,10 @@ I think a good paper have these factors:
 
 3、We should not repeat the wheel, if someone else has already organized made it public, we can use it directly or improve it.
 
+### Partial learning knowledge record
+
+[Probability theory](https://github.com/yzy1996/Artificial-Intelligence/tree/master/Knowledge)
+
 ## [Week 1](./report/week1.pdf)
 
 Key Words: StarCraft map, Development of evolutionary computation with game 
