@@ -37,3 +37,7 @@ Key Words: survey, real-time strategy, StarCraft
 ## [Week 3](./report/week3.pdf)
 
 Key Words: Mario, GAN, Generate game levels
+
+## [Week 4](./report/week4.pdf)
+
+ Key Words: VizDoom, A3C, Multi-Task Learning
