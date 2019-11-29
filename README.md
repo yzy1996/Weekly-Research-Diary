@@ -33,6 +33,20 @@ I think a good paper have these factors:
 
 [Probability theory](https://github.com/yzy1996/Artificial-Intelligence/tree/master/Knowledge)
 
+
+
+---
+
+**Weekly diary construction**: 
+
+1、to do list
+
+2、weekly summary 
+
+3、paper review
+
+
+
 ## [Week 1](./report/week1.pdf)
 
 Key Words: StarCraft map, Development of evolutionary computation with game 
