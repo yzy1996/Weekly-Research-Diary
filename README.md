@@ -33,21 +33,31 @@ I think a good paper have these factors:
 
 [Probability theory](https://github.com/yzy1996/Artificial-Intelligence/tree/master/Knowledge)
 
-## [Week 1](./report/week1.pdf)
 
+
+---
+
+**Weekly diary construction**: 
+
+1、to do list
+
+2、weekly summary 
+
+3、paper review
+
+
+
+## [Week 1](./report/week1.pdf)
 Key Words: StarCraft map, Development of evolutionary computation with game 
 
 ## [Week 2](./report/week2.pdf)
 Key Words: survey, real-time strategy, StarCraft
 
 ## [Week 3](./report/week3.pdf)
-
 Key Words: Mario, GAN, Generate game levels
 
 ## [Week 4](./report/week4.pdf)
-
 Key Words: VizDoom, A3C, Multi-Task Learning
 
-## [Week 6](./report/week6.pdf)
-
-Key Words: CMA-ES, GAN, Deep Network Interpolation
+## [Week 5](./report/week5.pdf)
+Key Words: Multi-objective, Game, NSGA-II
