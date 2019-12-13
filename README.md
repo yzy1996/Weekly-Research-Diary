@@ -61,3 +61,6 @@ Key Words: VizDoom, A3C, Multi-Task Learning
 
 ## [Week 5](./report/week5.pdf)
 Key Words: Multi-objective, Game, NSGA-II
+
+## [Week 6](./report/week6.pdf)
+Key Words: CMA-ES, GAN, Deep Network Interpolation
