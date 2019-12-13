@@ -46,4 +46,8 @@ Key Words: Mario, GAN, Generate game levels
 
 ## [Week 4](./report/week4.pdf)
 
- Key Words: VizDoom, A3C, Multi-Task Learning
+Key Words: VizDoom, A3C, Multi-Task Learning
+
+## [Week 6](./report/week6.pdf)
+
+Key Words: CMA-ES, GAN, Deep Network Interpolation
