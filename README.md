@@ -64,3 +64,7 @@ Key Words: Multi-objective, Game, NSGA-II
 
 ## [Week 6](./report/week6.pdf)
 Key Words: CMA-ES, GAN, Deep Network Interpolation
+
+## [Week 7](./report/week7.pdf)
+
+Key Words: Hypernetworks
