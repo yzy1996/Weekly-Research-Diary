@@ -68,3 +68,7 @@ Key Words: CMA-ES, GAN, Deep Network Interpolation
 ## [Week 7](./report/week7.pdf)
 
 Key Words: Hypernetworks
+
+## [Week 8](./report/week8.pdf)
+
+Key Words: Constrained MapElites, Feasible Infeasible 2-Pop
