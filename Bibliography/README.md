@@ -25,3 +25,10 @@ Categories:
 **[`JLMR`]**
 **[[:memo:](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf)]**
 
+<details>
+    <summary>Click to expand</summary>
+first try
+</details>
+
+​    
+
