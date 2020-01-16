@@ -47,32 +47,39 @@ I think a good paper have these factors:
 
 
 
-## [Week 1](./report/week1.pdf)
+## [Week 1](./Report/week1.pdf)
 Key Words: StarCraft map, Development of evolutionary computation with game 
 
-## [Week 2](./report/week2.pdf)
+## [Week 2](./Report/week2.pdf)
 Key Words: survey, real-time strategy, StarCraft
 
-## [Week 3](./report/week3.pdf)
+## [Week 3](./Report/week3.pdf)
 Key Words: Mario, GAN, Generate game levels
 
-## [Week 4](./report/week4.pdf)
+## [Week 4](./Report/week4.pdf)
 Key Words: VizDoom, A3C, Multi-Task Learning
 
-## [Week 5](./report/week5.pdf)
+## [Week 5](./Report/week5.pdf)
 Key Words: Multi-objective, Game, NSGA-II
 
-## [Week 6](./report/week6.pdf)
+## [Week 6](./Report/week6.pdf)
 Key Words: CMA-ES, GAN, Deep Network Interpolation
 
-## [Week 7](./report/week7.pdf)
+## [Week 7](./Report/week7.pdf)
 
 Key Words: Hypernetworks
 
-## [Week 8](./report/week8.pdf)
+## [Week 8](./Report/week8.pdf)
 
 Key Words: Constrained MapElites, Feasible Infeasible 2-Pop
 
-## [Week 9](./report/week9.pdf)
+## [Week 9](./Report/week9.pdf)
 
 Key Words: only train once
+
+
+
+
+
+---
+
