@@ -21,7 +21,6 @@ Categories:
 ## Hyper-Parameter Optimization
 
 **[`Random Search for Hyper-Parameter Optimization`]**
-
 **[`2012`]**
 **[`JLMR`]**
 **[[:memo:](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf)]**
