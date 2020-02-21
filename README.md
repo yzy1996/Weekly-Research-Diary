@@ -77,7 +77,14 @@ Key Words: Constrained MapElites, Feasible Infeasible 2-Pop
 
 Key Words: only train once
 
+## [Week 10](./Report/week9.pdf)
 
+## [Week 11](./Report/week9.pdf)
+
+
+## [Week 12](./Report/week12.pdf)
+
+## [Week 12](./Report/week13.pdf)
 
 
 
