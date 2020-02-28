@@ -29,6 +29,12 @@ I think a good paper have these factors:
 
 3、We should not repeat the wheel, if someone else has already organized made it public, we can use it directly or improve it.
 
+### How to find new papers?
+
+1、use software just like **stork** to get papers through the keywords
+
+2、use **Google scholar** to follow the related researchers
+
 ### Partial learning knowledge record
 
 [Probability theory](https://github.com/yzy1996/Artificial-Intelligence/tree/master/Knowledge)
@@ -84,7 +90,7 @@ Key Words: only train once
 
 ## [Week 12](./Report/week12.pdf)
 
-## [Week 12](./Report/week13.pdf)
+## [Week 13](./Report/week13.pdf)
 
 
 
