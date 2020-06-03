@@ -27,8 +27,9 @@ Categories:
 
 <details>
     <summary>Click to expand</summary>
-first try
+
 </details>
 
-​    
+
+
 
